@@ -9,9 +9,9 @@
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 
 
-#Projects
+## Projects
 
-
-#Contact Me
+---
+## Contact Me
 ### Adam Montemurro
 ### AdamMontemurro@gmail.com
