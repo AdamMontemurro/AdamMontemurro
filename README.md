@@ -1,5 +1,7 @@
 ![Head](https://i.imgur.com/DbaPhMU.png)
-
+---
+### I am Adam Montemurro 
+---
 
 ### Hello, I am Adam! A dynamic software engineer with a passion for technology, honed through a successful background in sales and the creation of websites for life insurance agents. Fueled by a love of learning, I recently enrolled in a software engineering bootcamp to expand my skill set and drive innovation in the industry. Critical thinking and offering unique solutions to complex problems is what drives me.
 
