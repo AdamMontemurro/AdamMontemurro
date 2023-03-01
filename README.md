@@ -17,7 +17,7 @@ In my spare time I enjoy learning a new skill, or reading a good book!
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 
- <h3>Currently Learning</h3><br><br>
+ ### Currently Learning <br><br>
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 
