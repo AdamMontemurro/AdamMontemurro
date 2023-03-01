@@ -9,7 +9,7 @@ I recently enrolled in a software engineering boot camp to expand my skill set a
 
 Critical thinking and offering unique solutions to complex problems are what drive me.
 
- Skillset:
+ <u>Skillset</u><br>
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -27,5 +27,5 @@ Currently Learning<br>
 ### Contact Me
  Adam Montemurro <br>
  AdamMontemurro@gmail.com <br>
- <a href="http://google.com" > ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) </a>
+ <a href="https://www.linkedin.com/in/adam-montemurro/" > ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) </a>
 </div>
