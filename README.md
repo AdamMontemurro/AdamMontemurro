@@ -3,7 +3,8 @@
 ### <div align="center"> Adam Montemurro </div>
 ---
 <div align="center">
-### Hello, I am Adam! A dynamic software engineer fueled by a love of learning. 
+
+ <h2>Hello, I am Adam! A dynamic software engineer fueled by a love of learning. </h2>
 
 I recently enrolled in a software engineering boot camp to expand my skill set and drive innovation in the industry. 
 
