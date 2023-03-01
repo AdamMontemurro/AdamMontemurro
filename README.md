@@ -3,7 +3,9 @@
 ### <div align="center"> Adam Montemurro </div>
 ---
 
- Hello, I am Adam! A dynamic software engineer fueled by a love of learning. I recently enrolled in a software engineering boot camp to expand my skill set and drive innovation in the industry. 
+### Hello, I am Adam! A dynamic software engineer fueled by a love of learning. 
+
+I recently enrolled in a software engineering boot camp to expand my skill set and drive innovation in the industry. 
 
 Critical thinking and offering unique solutions to complex problems are what drive me.
 
