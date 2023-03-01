@@ -2,7 +2,7 @@
 ---
 ### <div align="center"> Adam Montemurro </div>
 ---
-
+<div align="center">
 ### Hello, I am Adam! A dynamic software engineer fueled by a love of learning. 
 
 I recently enrolled in a software engineering boot camp to expand my skill set and drive innovation in the industry. 
@@ -28,3 +28,4 @@ Currently Learning<br>
  Adam Montemurro <br>
  AdamMontemurro@gmail.com <br>
  <a href="http://google.com" > ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) </a>
+</div>
