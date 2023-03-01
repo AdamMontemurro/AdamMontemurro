@@ -25,6 +25,6 @@ Currently Learning<br>
 
 ---
 ### Contact Me
- Adam Montemurro
- AdamMontemurro@gmail.com
- <a href="google.com" > ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) </a>
+ Adam Montemurro <br>
+ AdamMontemurro@gmail.com <br>
+ <a href="http://google.com" > ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) </a>
