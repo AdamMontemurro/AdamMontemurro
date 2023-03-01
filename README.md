@@ -6,8 +6,6 @@
 
  <h3>Hello, I am Adam! A dynamic software engineer fueled by a love of learning. </h3>
 
-I recently enrolled in a software engineering boot camp to expand my skill set and drive innovation in the industry. 
-
 Critical thinking and offering unique solutions to complex problems are what drive me.
 
 In my spare time I enjoy learning a new skill, or reading a good book!
