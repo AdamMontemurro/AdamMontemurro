@@ -3,7 +3,7 @@
 ### <div align="center"> Adam Montemurro </div>
 ---
 
-### Hello, I am Adam! A dynamic software engineer with a passion for technology honed through a successful background in sales and the creation of websites for life insurance agents. Fueled by a love of learning, I recently enrolled in a software engineering boot camp to expand my skill set and drive innovation in the industry. 
+ Hello, I am Adam! A dynamic software engineer fueled by a love of learning. I recently enrolled in a software engineering boot camp to expand my skill set and drive innovation in the industry. 
 
 Critical thinking and offering unique solutions to complex problems are what drive me.
 
