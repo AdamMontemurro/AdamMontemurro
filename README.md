@@ -1,4 +1,4 @@
-## Adam Montemurro
+[![Head](https://images.pexels.com/photos/270373/pexels-photo-270373.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)]
 
 
 ### Hello, I am Adam! A dynamic software engineer with a passion for technology, honed through a successful background in sales and the creation of websites for life insurance agents. Fueled by a love of learning, I recently enrolled in a software engineering bootcamp to expand my skill set and drive innovation in the industry. Critical thinking and offering unique solutions to complex problems is what drives me.
