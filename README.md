@@ -19,12 +19,12 @@ Currently Learning<br>
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 
-## Projects
+
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=AdamMontemurro)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
 ---
-## Contact Me
-### Adam Montemurro
-### AdamMontemurro@gmail.com
+### Contact Me
+ Adam Montemurro
+ AdamMontemurro@gmail.com
+ <a href="google.com" > ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) </a>
