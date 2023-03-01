@@ -3,7 +3,9 @@
 ### <div align="center"> Adam Montemurro </div>
 ---
 
-### Hello, I am Adam! A dynamic software engineer with a passion for technology honed through a successful background in sales and the creation of websites for life insurance agents. Fueled by a love of learning, I recently enrolled in a software engineering boot camp to expand my skill set and drive innovation in the industry. Critical thinking and offering unique solutions to complex problems are what drive me.
+### Hello, I am Adam! A dynamic software engineer with a passion for technology honed through a successful background in sales and the creation of websites for life insurance agents. Fueled by a love of learning, I recently enrolled in a software engineering boot camp to expand my skill set and drive innovation in the industry. 
+
+Critical thinking and offering unique solutions to complex problems are what drive me.
 
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
