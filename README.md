@@ -35,7 +35,7 @@ In my spare time I enjoy learning a new skill, or reading a good book!
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adammontemurro&hide=contribs)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adammontemurro)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
