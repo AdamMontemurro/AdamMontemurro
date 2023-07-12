@@ -29,7 +29,7 @@ In my spare time I enjoy learning a new skill, or reading a good book!
 
 
 
-[![GitHub stats](https://github-readme-stats-ruby-one.vercel.app/api?username=AdamMontemurro)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=AdamMontemurro)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
